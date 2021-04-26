@@ -30,6 +30,7 @@ Universitas Pelita Bangsa
 ![LANGKAH 7 seleksi kondisi (coding)](https://user-images.githubusercontent.com/22215113/116093659-107dfd00-a6d1-11eb-9573-94a20c4f8a77.png)
 
 * Output
+
 ![LANGKAH 7 seleksi kondisi (hasil 1)](https://user-images.githubusercontent.com/22215113/116093759-268bbd80-a6d1-11eb-856f-91234517480b.png)
 
 ![LANGKAH 7 seleksi kondisi (hasil 2)](https://user-images.githubusercontent.com/22215113/116093767-2986ae00-a6d1-11eb-904f-42f3608d1e67.png)
@@ -39,6 +40,7 @@ Universitas Pelita Bangsa
 ![LANGKAH 8 Penggunaan operator switch untuk seleksi kondisi (coding)](https://user-images.githubusercontent.com/22215113/116094011-5cc93d00-a6d1-11eb-9cda-170304e670ec.png)
 
 * Output
+
 ![LANGKAH 8 Penggunaan operator switch untuk seleksi kondisi (hasil 1)](https://user-images.githubusercontent.com/22215113/116094069-6bafef80-a6d1-11eb-83c5-7248eb946f8d.png)
 
 ![LANGKAH 8 Penggunaan operator switch untuk seleksi kondisi (hasil 2)](https://user-images.githubusercontent.com/22215113/116094080-6d79b300-a6d1-11eb-8e5b-0f9471cf9d22.png)
@@ -182,6 +184,7 @@ body {
 ![TUGAS (coding CSS)](https://user-images.githubusercontent.com/22215113/116094407-b5003f00-a6d1-11eb-8a22-9271b635723c.png)
 
 * Hasil Akhir
+
 ![TUGAS (Hasil 1)](https://user-images.githubusercontent.com/22215113/116094428-b893c600-a6d1-11eb-86e1-fccaa9a3a9f4.png)
 
 ![TUGAS (Hasil 2)](https://user-images.githubusercontent.com/22215113/116094433-b92c5c80-a6d1-11eb-9111-aa5aab453d3c.png)
