@@ -31,6 +31,7 @@ Universitas Pelita Bangsa
 
 * Output
 ![LANGKAH 7 seleksi kondisi (hasil 1)](https://user-images.githubusercontent.com/22215113/116093759-268bbd80-a6d1-11eb-856f-91234517480b.png)
+
 ![LANGKAH 7 seleksi kondisi (hasil 2)](https://user-images.githubusercontent.com/22215113/116093767-2986ae00-a6d1-11eb-904f-42f3608d1e67.png)
 
 ## Penggunaan operator switch untuk seleksi kondisi
@@ -39,6 +40,7 @@ Universitas Pelita Bangsa
 
 * Output
 ![LANGKAH 8 Penggunaan operator switch untuk seleksi kondisi (hasil 1)](https://user-images.githubusercontent.com/22215113/116094069-6bafef80-a6d1-11eb-83c5-7248eb946f8d.png)
+
 ![LANGKAH 8 Penggunaan operator switch untuk seleksi kondisi (hasil 2)](https://user-images.githubusercontent.com/22215113/116094080-6d79b300-a6d1-11eb-8e5b-0f9471cf9d22.png)
 
 # Pembuatan Form
@@ -181,4 +183,5 @@ body {
 
 * Hasil Akhir
 ![TUGAS (Hasil 1)](https://user-images.githubusercontent.com/22215113/116094428-b893c600-a6d1-11eb-86e1-fccaa9a3a9f4.png)
+
 ![TUGAS (Hasil 2)](https://user-images.githubusercontent.com/22215113/116094433-b92c5c80-a6d1-11eb-9111-aa5aab453d3c.png)
